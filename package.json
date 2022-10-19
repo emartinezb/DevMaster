@@ -1,7 +1,7 @@
 {
-  "name": "tiendamascostas",
+  "name": "toyland",
   "version": "1.0.0",
-  "description": "Tienda virtual de productos para mascotas",
+  "description": "Tienda virtual de la jugueteria Toyland",
   "main": "server.js",
   "scripts": {
     "start": "node back/server.js",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/emartinezb/TiendaMascostas.git"
   },
-  "author": "Estefany Martinez",
+  "author": "DevMaster",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/emartinezb/TiendaMascostas/issues"
