@@ -41,7 +41,7 @@ const productosSchema=mongoose.Schema({
                 "Juguetes para bebé",
                 "Muñecas",
                 "Peluches",
-                "Juegos de Mesa",
+                "Juegos de mesa",
                 "Educativos",
                 "Figuras de acción",
                 "Autos y pistas"
