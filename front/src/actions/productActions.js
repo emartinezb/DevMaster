@@ -1,10 +1,10 @@
 import axios from 'axios';
-import { 
+import {
     ALL_PRODUCTS_REQUEST,
     ALL_PRODUCTS_SUCCESS,
     ALL_PRODUCTS_FAIL,
     CLEAR_ERRORS
- } from "../constants/productConstants";
+} from "../constants/productConstants";
 
  export const getProducts = () => async(dispatch)=>{
     try {
