@@ -1,7 +1,7 @@
 import React, { Fragment } from "react";
 import MetaData from "../layout/MetaData";
 
-export const productDetails = () => {
+export const ProductDetails = () => {
     return (
         <Fragment>
             <MetaData title="Monopoly Super Banco Electronico"></MetaData>
