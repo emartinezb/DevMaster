@@ -11,14 +11,14 @@ export const Home = () => {
 
     const dispatch = useDispatch();
     useEffect(() => {
-        if (error) {
+        if (error){
             return alert.error(error)
         }
 
         dispatch(getProducts());
-        alert.success("OK")
     }, [dispatch])
-        
+
+
 
     return (
         <Fragment>
